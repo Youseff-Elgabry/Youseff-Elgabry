@@ -1,5 +1,5 @@
 # 🚀 Hi, I'm Yousef Elgabry
-### Computer Science Student & Aspiring Data Professional 📊✨
+### Computer Science Student & Aspiring Data Analyst 📊✨
 
 A passionate 2nd-year Computer Science student from Egypt, deeply invested in building a data-driven career. I specialize in turning raw data into actionable business insights and architectural pipelines, with a strong focus on **Data Analysis**, tracking into **Data Engineering** and **MLOps**. 
 
