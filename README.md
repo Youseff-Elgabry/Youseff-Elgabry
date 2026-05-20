@@ -33,5 +33,5 @@ Beyond core computing, I have a massive passion for the **automotive industry** 
 ---
 
 ## 📫 Connect with Me
-* 💼 **LinkedIn:** [yousef-elgabry](https://linkedin.com/in/yousef-elgabry)
+* 💼 **LinkedIn:** [yousef-elgabry](https://www.linkedin.com/in/yousef-elgabry-044643214)
 * 🎯 **Current Focus:** Open for data analytics internships and collaborative open-source data projects.
